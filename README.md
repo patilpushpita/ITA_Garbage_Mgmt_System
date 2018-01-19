@@ -1,3 +1,4 @@
 
+# GARBAGE MANAGEMENT SYSTEM
 
-            readme
+
